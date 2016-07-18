@@ -1,5 +1,8 @@
 source 'https://rubygems.org'
 
+gem 'learn-co'
+gem 'learn-test'
+
 group :development, :test do
   gem 'rspec-rails', '~> 3.0'
 end

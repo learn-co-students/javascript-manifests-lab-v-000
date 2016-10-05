@@ -1,4 +1,4 @@
-source 'https://rubygems.org'
+source 'http://rubygems.org'
 
 group :development, :test do
   gem 'rspec-rails', '~> 3.0'

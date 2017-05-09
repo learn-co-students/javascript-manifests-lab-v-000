@@ -1,4 +1,4 @@
-// This is a manifest file that'll be compiled into application.js, which will include all the files
+// This is a manifest file that'll be compiled into admin.js, which will include all the files
 // listed below.
 //
 // Any JavaScript/Coffee file within this directory, lib/assets/javascripts, vendor/assets/javascripts,
@@ -15,6 +15,5 @@
 //= require turbolinks
 //= require wrong_place_wrong_time
 //= require hello_world
+//= require doesn_nothing
 //= require learn
-//= require main
-//= require alert_maker

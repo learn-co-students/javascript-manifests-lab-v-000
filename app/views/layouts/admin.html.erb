@@ -4,10 +4,14 @@
   <title>Admin Layout</title>
   <%= stylesheet_link_tag    'application', media: 'all', 'data-turbolinks-track' => true %>
   <%= csrf_meta_tags %>
+
 </head>
+<%= javascript_include_tag 'application' %>
+<%= javascript_include_tag 'main' %>
 <body>
 
 <%= yield %>
+
 
 </body>
 </html>

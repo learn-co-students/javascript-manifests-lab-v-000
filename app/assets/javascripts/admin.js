@@ -11,6 +11,6 @@
 // about supported directives.
 //
 
-//= require main
-//= require alert_maker
-//= require wrong_place_wrong_time
+//= require hello_world
+//= require doesn_nothing
+

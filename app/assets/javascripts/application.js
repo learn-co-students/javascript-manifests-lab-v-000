@@ -20,4 +20,3 @@
 //= require hello_world
 //= require learn.js
 //= require main
-//=wrong_place_wrong_time

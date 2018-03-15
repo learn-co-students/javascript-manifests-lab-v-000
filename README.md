@@ -1,4 +1,4 @@
-# Javascript Manifests Lab
+  # Javascript Manifests Lab
 
 ## Objectives
 
@@ -15,7 +15,7 @@ Located in the lab repository is a simple Rails application called `javascript_m
 
 ### Admin Layout
 - Load `hello_world.js`, `doesn_nothing.js` in the admin manifest.
-- Load your manifest into the admin layout. 
+- Load your manifest into the admin layout.
 - Add an additional `javascript_include_tag` to the admin layout and use it to load `main.js`.
 
 When you finish, start the rails server with `rails server` and browse to http://localhost:3000 for the Application layout and http://localhost:3000/admin for the Admin layout. If you open Chrome dev tools and go to the elements tab, you should see the files you included in your manifest files as script tags in the head tag.

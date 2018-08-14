@@ -1,0 +1,15 @@
+current directory: /Users/home/Development/code/javascript-manifests-lab-v-000/vendor/bundle/ruby/2.5.0/gems/debug_inspector-0.0.3/ext/debug_inspector
+/usr/local/opt/ruby/bin/ruby -r ./siteconf20180814-4061-sk8dkv.rb extconf.rb
+creating Makefile
+
+current directory: /Users/home/Development/code/javascript-manifests-lab-v-000/vendor/bundle/ruby/2.5.0/gems/debug_inspector-0.0.3/ext/debug_inspector
+make "DESTDIR=" clean
+
+current directory: /Users/home/Development/code/javascript-manifests-lab-v-000/vendor/bundle/ruby/2.5.0/gems/debug_inspector-0.0.3/ext/debug_inspector
+make "DESTDIR="
+compiling debug_inspector.c
+linking shared-object debug_inspector.bundle
+
+current directory: /Users/home/Development/code/javascript-manifests-lab-v-000/vendor/bundle/ruby/2.5.0/gems/debug_inspector-0.0.3/ext/debug_inspector
+make "DESTDIR=" install
+/usr/bin/install -c -m 0755 debug_inspector.bundle ./.gem.20180814-4061-1s6qqgo

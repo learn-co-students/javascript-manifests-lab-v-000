@@ -5,3 +5,4 @@ RSpec.describe do
     expect(File.read("app/views/layouts/admin.html.erb")).to include("javascript_include_tag 'main'")
   end
 end
+  

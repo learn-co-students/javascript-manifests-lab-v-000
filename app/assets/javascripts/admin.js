@@ -10,9 +10,5 @@
 // Read Sprockets README (https://github.com/rails/sprockets#sprockets-directives) for details
 // about supported directives.
 //
-//= require jquery
-//= require jquery_ujs
-//= require turbolinks
-//= require wrong_place_wrong_time
-//= require alert_maker.js
-//= require main.js
+//= require hello_world.js
+//= require doesn_nothing.js 

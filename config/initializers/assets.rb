@@ -9,3 +9,4 @@ Rails.application.config.assets.precompile += %w( learn.js )
 # Precompile additional assets.
 # application.js, application.css, and all non-JS/CSS in app/assets folder are already added.
 # Rails.application.config.assets.precompile += %w( search.js )
+Rails.application.config.assets.paths << "/Users/yello/.atom/.learn-ide/home/thekevinhuang/javascript-manifests-lab-v-000/lib/assets"

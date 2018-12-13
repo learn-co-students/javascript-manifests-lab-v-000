@@ -164,7 +164,6 @@ DEPENDENCIES
   jquery-rails
   rails (= 4.2.5.1)
   rspec-rails (~> 3.0)
-  sass-rails (~> 5.0)
   sdoc (~> 0.4.0)
   spring
   turbolinks

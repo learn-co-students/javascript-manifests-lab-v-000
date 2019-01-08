@@ -4,7 +4,9 @@
 Rails.application.config.assets.version = '1.0'
 
 # Add additional assets to the asset load path
-Rails.application.config.assets.precompile += %w( learn.js )
+Rails.application.config.assets.paths << Rails.root.join("app/assets")
+Rails.application.config.assets.paths << Rails.root.join("vendor/assets")
+Rails.application.config.assets.precompile += %w( application.js learn.js admin.js main.js)
 
 # Precompile additional assets.
 # application.js, application.css, and all non-JS/CSS in app/assets folder are already added.

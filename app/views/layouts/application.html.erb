@@ -3,6 +3,7 @@
 <head>
   <title>JavascriptManifestLab</title>
   <%= stylesheet_link_tag    'application', media: 'all', 'data-turbolinks-track' => true %>
+  <!-- this is needed for sprockets to use the manifest file to load assets-->
   <%= javascript_include_tag "application" %>
 
   <%= csrf_meta_tags %>

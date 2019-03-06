@@ -1,3 +1,7 @@
+//= require alert_maker
+//= require main
+//= require wrong_place_wrong_time
+
 // This is a manifest file that'll be compiled into application.js, which will include all the files
 // listed below.
 //

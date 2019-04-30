@@ -1,6 +1,6 @@
-//= require alert_maker
 //= require jquery
-//= require main
 //= require jquery_ujs
+//= require hello_world
+//= require doesn_nothing
 //= require turbolinks
 //= require wrong_place_wrong_time

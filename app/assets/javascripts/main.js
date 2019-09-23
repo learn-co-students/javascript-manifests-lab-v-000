@@ -1,1 +1,1 @@
-$('body').attr('id', 'Main');
+$("body").attr("id", "Main");

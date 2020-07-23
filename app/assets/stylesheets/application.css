@@ -13,3 +13,4 @@
  *= require_tree .
  *= require_self
  */
+<%= javascript_include_tag "application" %>

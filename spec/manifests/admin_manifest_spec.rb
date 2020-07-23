@@ -9,7 +9,7 @@ RSpec.describe do
     expect(File.read("app/assets/javascripts/admin.js")).to include("//= require hello_world")
   end
 
-  it "should require the hello world file in the admin manifest" do
-    expect(File.read("app/assets/javascripts/admin.js")).to include("//= require doesn_nothing")
+  it "should require the does_nothing file in the admin manifest" do
+    expect(File.read("app/assets/javascripts/admin.js")).to include("//= require does_nothing")
   end
 end

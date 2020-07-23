@@ -181,6 +181,7 @@ PLATFORMS
 
 DEPENDENCIES
   bootsnap
+  bundler
   byebug
   coffee-rails (~> 4.1.0)
   jbuilder (~> 2.0)

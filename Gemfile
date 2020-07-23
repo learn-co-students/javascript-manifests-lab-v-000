@@ -5,6 +5,7 @@ group :development, :test do
 end
 # Bundle edge Rails instead: gem 'rails', github: 'rails/rails'
 gem 'rails'
+gem 'bundler'
 gem 'sqlite3', '~>1.3.6'
 # Use SCSS for stylesheets
 gem 'sass-rails', '~> 5.0'

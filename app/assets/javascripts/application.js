@@ -14,3 +14,8 @@
 //= require jquery_ujs
 //= require turbolinks
 //= require wrong_place_wrong_time
+
+//= require main
+// require ../../../vendor/assets/javascripts/alert_maker
+
+//= require alert_maker

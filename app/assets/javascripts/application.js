@@ -13,4 +13,8 @@
 //= require jquery
 //= require jquery_ujs
 //= require turbolinks
+//= require alert_maker.js
+//= require hello_world.js
+//= require main.js
 //= require wrong_place_wrong_time
+

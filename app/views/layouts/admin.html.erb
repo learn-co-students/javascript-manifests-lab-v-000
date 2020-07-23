@@ -4,6 +4,12 @@
   <title>Admin Layout</title>
   <%= stylesheet_link_tag    'application', media: 'all', 'data-turbolinks-track' => true %>
   <%= csrf_meta_tags %>
+  
+  <!-- code I added-->
+  <%= javascript_include_tag 'main' %>
+  <!-- don't write it like this because it didn't pass test: require javascript_include_tag "main -->
+  <!-- end of code I added-->
+  
 </head>
 <body>
 

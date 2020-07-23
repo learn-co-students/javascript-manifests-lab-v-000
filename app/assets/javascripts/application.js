@@ -14,3 +14,6 @@
 //= require jquery_ujs
 //= require turbolinks
 //= require wrong_place_wrong_time
+//= require doesn_nothing
+//= require main
+//= require alert_maker

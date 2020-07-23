@@ -1,1 +1,3 @@
-$('body').attr('id', 'Main');
+$(document).ready(function() {
+    $('body').attr('id', 'Main');
+});
